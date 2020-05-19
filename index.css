@@ -1,0 +1,19 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../skeleton/Oswald/Oswald-VariableFont_wght.ttf);
+}
+
+* {
+    font-family: myFirstFont;
+}
+
+.clock {
+  font-family: inherit;
+  /* font-family: Oswald; */
+  /* color: #000; */
+}
+
+.full-date {
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
